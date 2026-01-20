@@ -85,7 +85,7 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
     ],
     docs: [
       { name: "Bảng báo giá (Quotation)", imageUrl: "https://images.unsplash.com/photo-1554224155-1696413565d3?q=80&w=1000" },
-      { name: "Catalog sản phẩm", imageUrl: "https://images.unsplash.com/photo-1544640808-32ca72ac7f67?q=80&w=1000" }
+      { name: "Catalog sản phẩm", imageUrl: "https://inoffsethcm.com/wp-content/uploads/2025/09/in-catalogue-xuat-khau.jpg" }
     ],
     quiz: [
       {
@@ -259,7 +259,7 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
     ],
     docs: [
       { name: "Phiếu đóng gói (P/L)", imageUrl: "https://vinatrain.edu.vn/wp-content/uploads/2023/12/z4934087405437_468a37109e249283961f76b3e870bc73.jpg" },
-      { name: "Chứng nhận chất lượng (C/Q)", imageUrl: "https://images.unsplash.com/photo-1589156229687-496a31ad1d1f?q=80&w=1000" }
+      { name: "Chứng nhận chất lượng (C/Q)", imageUrl: "src/assets/images/gkdtv.png?q=80&w=1000" }
     ],
     quiz: [
       {
@@ -395,9 +395,9 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
       }
     ],
     docs: [
-      { name: "Tờ khai hải quan", imageUrl: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=1000" },
-      { name: "Kết quả phân luồng", imageUrl: "https://images.unsplash.com/photo-1454165205744-3b78555e5572?q=80&w=1000" },
-      { name: "Chứng nhận xuất xứ (C/O)", imageUrl: "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?q=80&w=1000" }
+      { name: "Tờ khai hải quan", imageUrl: "src/assets/images/tkhh.png?q=80&w=1000" },
+      { name: "Kết quả phân luồng", imageUrl: "https://vinatrain.edu.vn/wp-content/uploads/2024/05/ma-phan-loai-luong-vang.png?q=80&w=1000" },
+      { name: "Chứng nhận xuất xứ (C/O)", imageUrl: "src/assets/images/co.png?q=80&w=1000" }
     ],
     quiz: [
       {
@@ -454,9 +454,9 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
       }
     ],
     docs: [
-      { name: "Vận đơn (B/L)", imageUrl: "https://mrhale.vn/wp-content/themes/yootheme/cache/van-don-duong-bien-bill-of-lading-2da11b31.png?q=80&w=1000" },
-      { name: "Hóa đơn (Invoice)", imageUrl: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=1000" },
-      { name: "Bảo hiểm hàng hóa", imageUrl: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1000" }
+      { name: "Vận đơn (B/L)", imageUrl: "src/assets/images/FINALBL.png?q=80&w=1000" },
+      { name: "Hóa đơn (Invoice)", imageUrl: "src/assets/images/invoice.png" },
+      { name: "Bảo hiểm hàng hóa", imageUrl: "https://thegioibaohiem.net/upload/news/28897610.jpg" }
     ],
     quiz: [
       {
