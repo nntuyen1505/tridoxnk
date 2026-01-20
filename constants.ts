@@ -26,8 +26,8 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
       }
     ],
     docs: [
-      { name: "Sơ đồ tổng thể", imageUrl: "https://images.unsplash.com/photo-1594818379496-da1e345b0ded?q=80&w=1000" },
-      { name: "Lộ trình vận chuyển", imageUrl: "https://images.unsplash.com/photo-1494412574735-a119c601503f?q=80&w=1000" }
+      { name: "Sơ đồ tổng thể", imageUrl: "https://sudospaces.com/xuatnhapkhauleanh-edu-vn/uploads/2023/02/w600/quy-trinh-nhap-khau-hang-hoa.jpg.webp" },
+      { name: "Lộ trình vận chuyển", imageUrl: "https://thaiduongfulfillment.com/wp-content/uploads/2024/09/so-do-quy-trinh-van-chuyen-hang-hoa.webp" }
     ],
     quiz: [
       {
@@ -259,7 +259,7 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
     ],
     docs: [
       { name: "Phiếu đóng gói (P/L)", imageUrl: "https://vinatrain.edu.vn/wp-content/uploads/2023/12/z4934087405437_468a37109e249283961f76b3e870bc73.jpg" },
-      { name: "Chứng nhận chất lượng (C/Q)", imageUrl: "src/assets/images/gkdtv.png?q=80&w=1000" }
+      { name: "Chứng nhận chất lượng (C/Q)", imageUrl: "https://antvina.com/wp-content/uploads/2024/10/Giay-chung-nhan-kiem-dich-thuc-vat-quoc-te.png" }
     ],
     quiz: [
       {
@@ -316,8 +316,8 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
       }
     ],
     docs: [
-      { name: "Lệnh cấp container (Booking Note)", imageUrl: "https://images.unsplash.com/photo-1580674285054-bed31e145f59?q=80&w=1000" },
-      { name: "Vận đơn nháp (Draft B/L)", imageUrl: "https://images.unsplash.com/photo-1565891741441-6ad9653bb7b7?q=80&w=1000" }
+      { name: "Lệnh cấp container (Booking Note)", imageUrl: "https://tamsuthuctap.vn/wp-content/uploads/2023/12/Hai-an-1-860x696.jpg" },
+      { name: "Vận đơn nháp (Draft B/L)", imageUrl: "https://vinatrain.edu.vn/wp-content/uploads/2023/10/van-don-copy-bl-copy.jpg" }
     ],
     quiz: [
       {
@@ -395,9 +395,9 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
       }
     ],
     docs: [
-      { name: "Tờ khai hải quan", imageUrl: "src/assets/images/tkhh.png?q=80&w=1000" },
+      { name: "Tờ khai hải quan", imageUrl: "https://www.finlogistics.vn/wp-content/uploads/2025/02/Ho-so-hai-quan-xuat-nhap-khau-02.jpg" },
       { name: "Kết quả phân luồng", imageUrl: "https://vinatrain.edu.vn/wp-content/uploads/2024/05/ma-phan-loai-luong-vang.png?q=80&w=1000" },
-      { name: "Chứng nhận xuất xứ (C/O)", imageUrl: "src/assets/images/co.png?q=80&w=1000" }
+      { name: "Chứng nhận xuất xứ (C/O)", imageUrl: "https://www.container-transportation.com/images/giay-chung-nhan-xuat-xu.jpg" }
     ],
     quiz: [
       {
@@ -454,8 +454,8 @@ export const IMPORT_EXPORT_STEPS: Step[] = [
       }
     ],
     docs: [
-      { name: "Vận đơn (B/L)", imageUrl: "src/assets/images/FINALBL.png?q=80&w=1000" },
-      { name: "Hóa đơn (Invoice)", imageUrl: "src/assets/images/invoice.png" },
+      { name: "Vận đơn (B/L)", imageUrl: "https://interlink.com.vn/wp-content/uploads/2023/02/BL-van-chuyen-quoc-te.jpg" },
+      { name: "Hóa đơn (Invoice)", imageUrl: "https://www.finlogistics.vn/wp-content/uploads/2023/02/Commercial-Invoice-03.jpg" },
       { name: "Bảo hiểm hàng hóa", imageUrl: "https://thegioibaohiem.net/upload/news/28897610.jpg" }
     ],
     quiz: [
